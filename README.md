@@ -1,16 +1,15 @@
-## Hi there 👋
+> whoami
 
-<!--
-**Afterlight0338/Afterlight0338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Afterlight0338
 
-Here are some ideas to get you started:
+Malaysian developer • rhythm gamer • Linux enjoyer • vibecoding ranked
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+  > breaking things
+  > fixing things
+  > asking an LLM why it broke
+  > breaking it again
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+use+Arch+BTW;I+use+NixOS+BTW;I+compile+things+that+don't+need+compiling;It+works+on+my+machine;The+machine+is+NixOS;osu!+mapping+%2B+AI+%2B+Linux+%2B+questionable+ideas" />
+</p>
